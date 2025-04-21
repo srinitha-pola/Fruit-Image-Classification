@@ -1,0 +1,10 @@
+Apple
+Banana
+Human
+Kiwi
+LeftArrow
+Pomegranate
+RightArrow
+Strawberry
+UpArrow
+Watermelon
